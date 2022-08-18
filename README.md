@@ -1,14 +1,24 @@
 # Hi there 👋
 
 ## 👉 Development-Stack
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)      
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)    
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)    
+
+[<img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=yellow"/>](https://www.notion.so/a4fe3bb821c94d219f272f8157459e59)
+[<img src="https://img.shields.io/badge/Django-gteen?style=flat&logo=Django&logoColor=white"/>](https://www.notion.so/a4fe3bb821c94d219f272f8157459e59)
+
+[<img src="https://img.shields.io/badge/SQLite-blue?style=flat&logo=sqlite&logoColor=white"/>](https://www.notion.so/a4fe3bb821c94d219f272f8157459e59)
+[<img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=MySQL&logoColor=white"/>](https://www.notion.so/a4fe3bb821c94d219f272f8157459e59)
+[<img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=PostgreSQL&logoColor=white"/>](https://www.notion.so/a4fe3bb821c94d219f272f8157459e59)
+
+[<img src="https://img.shields.io/badge/AWS EC2-yellow?style=flat&logo=Amazon AWS&logoColor=white"/>](https://www.notion.so/a4fe3bb821c94d219f272f8157459e59)
+[<img src="https://img.shields.io/badge/AWS S3-yellow?style=flat&logo=Amazon S3&logoColor=white"/>](https://www.notion.so/a4fe3bb821c94d219f272f8157459e59)
+[<img src="https://img.shields.io/badge/Postman-orange?style=flat&logo=Postman&logoColor=white"/>](https://www.notion.so/a4fe3bb821c94d219f272f8157459e59)
+
+[<img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=html5&logoColor=white"/>](https://www.notion.so/a4fe3bb821c94d219f272f8157459e59)
+[<img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=yellow"/>](https://www.notion.so/a4fe3bb821c94d219f272f8157459e59)
+
+[<img src="https://img.shields.io/badge/VSCode-blue?style=flat&logo=Visual Studio Code&logoColor=white"/>](https://www.notion.so/a4fe3bb821c94d219f272f8157459e59)
+[<img src="https://img.shields.io/badge/Pycharm-black?style=flat&logo=Pycharm&logoColor=green"/>](https://www.notion.so/a4fe3bb821c94d219f272f8157459e59)
+
 
 ## 📢 More Information
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://psb6604.tistory.com/)](https://psb6604.tistory.com/)
