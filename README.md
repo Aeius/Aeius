@@ -13,6 +13,6 @@
 ## 📢 More Information
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://psb6604.tistory.com/)](https://psb6604.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:psb6604@gmail.com)](mailto:psb6604@gmail.com)
-<img src="https://img.shields.io/badge/Portfolio-white?style=flat&logo=Notion&logoColor=black"/>
+[<img src="https://img.shields.io/badge/Portfolio-white?style=flat&logo=Notion&logoColor=black"/>](https://www.notion.so/a4fe3bb821c94d219f272f8157459e59)
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aeius)](https://github.com/anuraghazra/github-readme-stats)
