@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=yellow"/>
 
-<img src="https://img.shields.io/badge/VSCode-blue?style=flat&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Pycharm-black?style=flat&logo=Pycharm&logoColor=green"/>
+<img src="https://img.shields.io/badge/VSCode-blue?style=flat&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/intellij-purple?style=flat&logo=IntelliJ IDEA&logoColor=white"/> 
 
 
 ## 📢 More Information
