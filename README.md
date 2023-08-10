@@ -1,5 +1,7 @@
 # Hi there 👋
 
+I worked as an BE Engineer, in COOCON, Busan, Korea 23.06 ~
+
 ## 👉 Development-Stack
 
 <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Django-gteen?style=flat&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-gteen?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring boot-gteen?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-blue?style=flat&logo=Gradle&logoColor=white"/>
